@@ -1,4 +1,4 @@
-#Zawgyi To Unicode Node.js convertor
+# Zawgyi To Unicode Node.js convertor
 
 ** Usages **
 
